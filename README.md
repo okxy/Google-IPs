@@ -10,9 +10,6 @@
    <th colspan="6">Bulgaria</th>
   </tr>
   <tr>
-   <td><a href="http://93.123.23.1" target="_blank">93.123.23.1</a></td>
-   <td><a href="http://93.123.23.2" target="_blank">93.123.23.2</a></td>
-   <td><a href="http://93.123.23.3" target="_blank">93.123.23.3</a></td>
    <td><a href="http://93.123.23.4" target="_blank">93.123.23.4</a></td>
    <td><a href="http://93.123.23.5" target="_blank">93.123.23.5</a></td>
    <td><a href="http://93.123.23.6" target="_blank">93.123.23.6</a></td>
