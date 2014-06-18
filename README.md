@@ -1,5 +1,6 @@
 Google 全球 IP 地址库
 ==========
+[ ![Codeship Status for okxy/Google-IPs](https://www.codeship.io/projects/1cfd5f40-d907-0131-faa4-62bfa850af81/status)](https://www.codeship.io/projects/24108)
 
 Bulgaria
 --
